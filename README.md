@@ -2,6 +2,7 @@
 
 Udacity Data Analyst Nanodegree Project : Exploratory Data Analysis using R Programming : Red Wine Quality dataset
 
+The purpose of this analysis is to detect if any of the physiochemical properties distinguish between excellent, good and poor quality wines.  The physiochemical include fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates and alcohol.
 
 Dataset
 
